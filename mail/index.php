@@ -21,7 +21,7 @@
         echo "<div>KO</div>";
       };
 
-
+      // http://localhost/mail/?mail=mia@mail.it
      ?>
   </body>
 </html>

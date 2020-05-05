@@ -15,9 +15,10 @@
      ?>
 
 
-    <h1>Hello hello hello <?php echo $name . '' . $surname ?> !!</h1>
+    <h1>Hello hello hello <?php echo $name.' '.$surname; ?> !!</h1>
 
 
+    <!-- http://localhost/name/?name=Smart&surname=Tillo -->
 
   </body>
 </html>
